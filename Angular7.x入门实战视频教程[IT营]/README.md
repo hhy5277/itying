@@ -6,9 +6,9 @@ https://ionicons.com/
 
 ## 环境准备
 1. 安装nodejs
-2. 安装cnpm 
+2. 安装cnpm   
 npm install -g cnpm --registry=https://registry.npm.taobao.org
-3. 安装Angular-cli 
+3. 安装Angular-cli   
 npm install -g @angular/cli 或者 cnpm install -g @angular/cli
 
 ## 创建项目
